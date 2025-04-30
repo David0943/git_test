@@ -1,2 +1,3 @@
-print("i am the best")
-a=input("saisir un entier")
+s="je suis aller au zoo"
+p=s.upper()
+print(p)
